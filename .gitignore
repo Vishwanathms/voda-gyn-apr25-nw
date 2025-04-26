@@ -1,0 +1,10 @@
+*.xlsx
+*.ppt
+*.pptx
+Infra-codes
+errors-azure
+.terraform
+repo1/.git
+terraform.tfstate
+terraform.tfstate.backup
+git-filter-repo.py
